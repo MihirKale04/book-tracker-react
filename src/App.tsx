@@ -1,7 +1,6 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import BookList from "./pages/BookList";
 import Layout from "./components/Layout";
-import "./App.css";
 
 function App() {
   return (
