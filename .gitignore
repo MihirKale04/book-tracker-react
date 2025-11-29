@@ -37,3 +37,9 @@ logs/
 
 # TypeScript (if you switch later)
 *.tsbuildinfo
+
+# Database
+data/
+*.db
+*.sqlite
+*.sqlite3
